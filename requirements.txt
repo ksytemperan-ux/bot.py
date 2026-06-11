@@ -1,4 +1,3 @@
-pyrogram
-tgcrypto
-aiohttp
-
+python-telegram-bot
+httpx
+flask
